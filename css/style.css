@@ -1,0 +1,11 @@
+
+body {
+	font-size: 18px;
+	background: url("../img/geometry2.png");
+}
+#list {
+	margin-top: 20px;
+}
+li:nth-child(even) {
+	background-color: #eeeeee;
+}
